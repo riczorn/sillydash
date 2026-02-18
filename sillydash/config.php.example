@@ -1,0 +1,24 @@
+<?php
+
+return array(
+    'database' =>
+        array(
+            'hostname' => 'localhost',
+            'username' => 'sillydash',
+            'password' => 'yourpasswordhere',
+            'database' => 'sillydash_db',
+            'DBDriver' => 'MySQLi',
+            'DBPrefix' => 'silly_',
+            'port' => 3306,
+        ),
+    'list_folder' => './files',
+    'cron_token' => 'super-secret-token',
+    'smtp' =>
+        array(
+            'host' => 'mail.example.com',
+            'port' => 465,
+            'security' => 'ssl',
+            'user' => 'noreply@example.com',
+            'pass' => 'yourpasswordhere',
+        ),
+);
