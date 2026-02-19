@@ -3,13 +3,13 @@
 A lightweight dashboard to view Virtualmin accounts and monitoring disk usage.
 It provides a clean interface to visualize account data; includes installation instructions.
 Configurable via web or editing `config.php`, it runs on a webserver and connects to a MariaDB database.
-![Dashboard](docs/5.%20Dashboard.png)
+![Dashboard](https://github.com/riczorn/sillydash/blob/a08a1f02076bfadec682e36625a7066ee0252465/sillydash/docs/5.%20Dashboard.png)
 
 ## Installation
 
 ### 1. Setup
 The setup wizard guides you through the initial configuration.
-![Setup](blob/fdde4842be441f2b99d3f030e303d0935e470d83/sillydash/docs/1.%20Setup.png)
+![Setup](https://github.com/riczorn/sillydash/blob/fdde4842be441f2b99d3f030e303d0935e470d83/sillydash/docs/1.%20Setup.png)
 
 
 
@@ -24,31 +24,31 @@ If the setup cannot write the config.php file - presumably for permission issues
 ## Login
 
 Access the dashboard via the secure login page.
-![Login](docs/4.%20Login.png)
+![Login](https://github.com/riczorn/sillydash/blob/a08a1f02076bfadec682e36625a7066ee0252465/sillydash/docs/4.%20Login.png)
 
 ## Dashboard and accounts
 
 ### Dashboard View
 The dashboard provides a comprehensive view of your system's status.
-![Dashboard](docs/5.%20Dashboard.png)
+![Dashboard](https://github.com/riczorn/sillydash/blob/a08a1f02076bfadec682e36625a7066ee0252465/sillydash/docs/5.%20Dashboard.png)
 
 ### Subdomains
 View detailed usage for subdomains.
-![Subdomains](docs/6.%20Subdomains.png)
+![Subdomains](https://github.com/riczorn/sillydash/blob/a08a1f02076bfadec682e36625a7066ee0252465/sillydash/docs/6.%20Subdomains.png)
 
 ### Disk Usage Trends
 Analyze disk usage trends over time.
-![Disk Usage Trends](docs/7.%20Disk%20Usage%20Trends.png)
+![Disk Usage Trends](https://github.com/riczorn/sillydash/blob/a08a1f02076bfadec682e36625a7066ee0252465/sillydash/docs/7.%20Disk%20Usage%20Trends.png)
 
 ### Accounts
 Manage and list all hosting accounts.
-![Accounts](docs/8.%20Accounts.png)
+![Accounts](https://github.com/riczorn/sillydash/blob/a08a1f02076bfadec682e36625a7066ee0252465/sillydash/docs/8.%20Accounts.png)
 
 ## Configuration
 
 ### Users list
 Manage users and application settings.
-![Users list](docs/9.%20Users%20list.png)
+![Users list](https://github.com/riczorn/sillydash/blob/a08a1f02076bfadec682e36625a7066ee0252465/sillydash/docs/9.%20Users%20list.png)
 
 ### Edit User
 Edit user profiles and permissions.
