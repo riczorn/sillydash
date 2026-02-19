@@ -9,7 +9,9 @@ Configurable via web or editing `config.php`, it runs on a webserver and connect
 
 ### 1. Setup
 The setup wizard guides you through the initial configuration.
-![Setup](docs/1.%20Setup.png)
+![Setup](blob/fdde4842be441f2b99d3f030e303d0935e470d83/sillydash/docs/1.%20Setup.png)
+
+
 
 ### 2. Database Connection
 Ensure your database credentials are correct to avoid connection errors.
