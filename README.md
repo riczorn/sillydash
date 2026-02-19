@@ -52,11 +52,17 @@ Manage users and application settings.
 
 ### Edit User
 Edit user profiles and permissions.
-![Edit User](docs/10.%20Edit%20User.png)
+![Edit User](https://github.com/riczorn/sillydash/blob/a08a1f02076bfadec682e36625a7066ee0252465/sillydash/docs/10.%20Edit%20User.png)
+
 
 ### Settings
 Configure general application settings.
-![Settings](docs/11.%20Settings.png)
+![Settings](https://github.com/riczorn/sillydash/blob/a08a1f02076bfadec682e36625a7066ee0252465/sillydash/docs/11.%20Settings.png)
+
+
+
+
+
 
 ## Scripts
 
