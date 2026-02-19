@@ -15,11 +15,11 @@ The setup wizard guides you through the initial configuration.
 
 ### 2. Database Connection
 Ensure your database credentials are correct to avoid connection errors.
-![Error Cannot connect to db](docs/2.%20Error%20Cannot%20connect%20to%20db.png)
+![Error Cannot connect to db](https://github.com/riczorn/sillydash/blob/a08a1f02076bfadec682e36625a7066ee0252465/sillydash/docs/2.%20Error%20Cannot%20connect%20to%20db.png)
 
 ### 3. Config File
-The `config.php` file holds your environment-specific settings.
-![Config file](docs/3.%20Config%20file.png)
+If the setup cannot write the config.php file - presumably for permission issues - no problem: it will display the file contents for you to insert manually.
+![Config file](https://github.com/riczorn/sillydash/blob/a08a1f02076bfadec682e36625a7066ee0252465/sillydash/docs/3.%20Config%20file.png)
 
 ## Login
 
