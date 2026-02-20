@@ -6,7 +6,7 @@ Configurable via web or editing `config.php`, it runs on a webserver and connect
 
 <style>
     img {
-        max-width: 400px;
+        max-width: 400px !important;
         box-shadow: 0 4px 6px rgba(255,255,255, 0.3);
         border-radius: 4px;
         margin-bottom: 10px;    
