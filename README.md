@@ -12,7 +12,11 @@ second
 
 third
 
-![Dashboard]/docs/5. Dashboard.png
+![Dashboard]/docs/5.%20Dashboard.png
+
+fourth
+
+![Dashboard](/docs/5.%20Dashboard.png)
 
 ## Installation
 Clone this repo anywhere on your server; then go there in the browser to start the setup.
