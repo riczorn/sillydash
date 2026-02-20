@@ -3,6 +3,17 @@
 A lightweight dashboard to view Virtualmin accounts and monitoring disk usage.
 It provides a clean interface to visualize account data; includes installation instructions.
 Configurable via web or editing `config.php`, it runs on a webserver and connects to a MariaDB database.
+
+<style>
+    img {
+        max-width: 400px;
+        box-shadow: 0 4px 6px rgba(255,255,255, 0.3);
+        border-radius: 4px;
+        margin-bottom: 10px;    
+        display: block;
+    }
+</style>
+
 ![Dashboard](https://github.com/riczorn/sillydash/blob/a08a1f02076bfadec682e36625a7066ee0252465/sillydash/docs/5.%20Dashboard.png)
 
 ## Installation
