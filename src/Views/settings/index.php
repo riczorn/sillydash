@@ -62,8 +62,8 @@
         <div class="form-row">
             <div class="form-group">
                 <label for="smtp_port">Port</label>
-                <input type="number" name="smtp_port" id="smtp_port" value="<?= esc($config['smtp']['port'] ?? 587) ?>"
-                    min="1" max="65535">
+                <input type="text" name="smtp_port" id="smtp_port" value="<?= esc($config['smtp']['port'] ?? 587) ?>"
+                    pattern="\d*" inputmode="numeric">
             </div>
             <div class="form-group">
                 <label for="smtp_security">Security</label>
