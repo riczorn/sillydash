@@ -4,18 +4,6 @@ A lightweight dashboard to view Virtualmin accounts and monitoring disk usage.
 It provides a clean interface to visualize account data; includes installation instructions.
 Configurable via web or editing `config.php`, it runs on a webserver and connects to a MariaDB database.
 
-![Dashboard](https://github.com/riczorn/sillydash/blob/a08a1f02076bfadec682e36625a7066ee0252465/sillydash/docs/5.%20Dashboard.png)
-
-second
-
-![Dashboard](/docs/5. Dashboard.png)
-
-third
-
-![Dashboard]/docs/5.%20Dashboard.png
-
-fourth
-
 ![Dashboard](/docs/5.%20Dashboard.png)
 
 ## Installation
@@ -55,70 +43,70 @@ Note: if you run Apache instead, the .htaccess should take care of the routing.
 ### 1. Setup
 Initial configuration: folders, database, user creation.
 
-![Setup](https://github.com/riczorn/sillydash/blob/fdde4842be441f2b99d3f030e303d0935e470d83/sillydash/docs/1.%20Setup.png)
+![Setup](/docs/1.%20Setup.png)
 
 
 ### 2. Database Connection
 The setup tests the database connection before saving the configuration, to improve chances of it actually working.
 
-![Error Cannot connect to db](https://github.com/riczorn/sillydash/blob/a08a1f02076bfadec682e36625a7066ee0252465/sillydash/docs/2.%20Error%20Cannot%20connect%20to%20db.png)
+![Error Cannot connect to db](/docs/2.%20Error%20Cannot%20connect%20to%20db.png)
 
 ### 3. Config File
 If the setup cannot write the `config.php` file - presumably for permission issues - no problem: it will display the file contents for you to manually save to `config.php`.
 
-![Config file](https://github.com/riczorn/sillydash/blob/a08a1f02076bfadec682e36625a7066ee0252465/sillydash/docs/3.%20Config%20file.png)
+![Config file](/docs/3.%20Config%20file.png)
 
 ## Login
 
 Use the login button in the top right. 
 
-![Login](https://github.com/riczorn/sillydash/blob/a08a1f02076bfadec682e36625a7066ee0252465/sillydash/docs/4.%20Login.png)
+![Login](/docs/4.%20Login.png)
 
 ## Dashboard and accounts
 
 ### Dashboard View
 View Virtualmin accounts, mail, db and log size over time
 
-![Dashboard](https://github.com/riczorn/sillydash/blob/a08a1f02076bfadec682e36625a7066ee0252465/sillydash/docs/5.%20Dashboard.png)
+![Dashboard](/docs/5.%20Dashboard.png)
 
 Below it, a pie chart to represent the largest accounts:
 
-![Dashboard Piechart](https://github.com/riczorn/sillydash/blob/ab4f8adf576f03ae71e0b8cf5d76430805c05db5/docs/5b.%20Dashboard.png)
+![Dashboard Piechart](/docs/5b.%20Dashboard.png)
 
 ### Subdomains
 View ongoing usage for subdomains under this account
 
-![Subdomains](https://github.com/riczorn/sillydash/blob/a08a1f02076bfadec682e36625a7066ee0252465/sillydash/docs/6.%20Subdomains.png)
+![Subdomains](/docs/6.%20Subdomains.png)
 
-![Subdomains 40+ subservers](https://github.com/riczorn/sillydash/blob/cbf685f7803a1e8e7cf3f24b26781533cfbe02de/docs/6b.%20Subdomains.png)
+![Subdomains 40+ subservers](/docs/6b.%20Subdomains.png)
 
 ### Disk Usage Trends
 Analyze disk usage trends
 
-![Disk Usage Trends](https://github.com/riczorn/sillydash/blob/a08a1f02076bfadec682e36625a7066ee0252465/sillydash/docs/7.%20Disk%20Usage%20Trends.png)
+![Disk Usage Trends](/docs/7.%20Disk%20Usage%20Trends.png)
 
 ### Accounts
 List all hosting accounts and their domains
 
-![Accounts](https://github.com/riczorn/sillydash/blob/a08a1f02076bfadec682e36625a7066ee0252465/sillydash/docs/8.%20Accounts.png)
+![Accounts](/docs/8.%20Accounts.png)
 
 ## Configuration
 
 ### Users Management
 List and create users.
 
-![Users list](https://github.com/riczorn/sillydash/blob/a08a1f02076bfadec682e36625a7066ee0252465/sillydash/docs/9.%20Users%20list.png)
+![Users list](/docs/9.%20Users%20list.png)
 
 ### Edit User
 Edit user profiles. Supports two roles: admin (visibility: all accounts) and user (choose the accounts they can see)
 
-![Edit User](https://github.com/riczorn/sillydash/blob/a08a1f02076bfadec682e36625a7066ee0252465/sillydash/docs/10.%20Edit%20User.png)
+![Edit User](/docs/10.%20Edit%20User.png)
 
 
 ### Settings
 Configure general application settings.
-
-![Settings](https://github.com/riczorn/sillydash/blob/a08a1f02076bfadec682e36625a7066ee0252465/sillydash/docs/11.%20Settings.png)
+        
+![Settings](/docs/11.%20Settings.png)
 
 
 
