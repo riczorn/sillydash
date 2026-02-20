@@ -11,7 +11,7 @@ config?.php
 /sillydashboard/
 build_for_installation.sh
 /sillydash/
-
+instructions.md
 
 #-------------------------
 # Operating Specific Junk Files
