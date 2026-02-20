@@ -1,0 +1,8 @@
+/* This should be used by the README.md file */
+img {
+    max-width: 400px !important;
+    box-shadow: 0 4px 6px rgba(255, 255, 255, 0.3);
+    border-radius: 4px;
+    margin-bottom: 10px;
+    display: block;
+}
