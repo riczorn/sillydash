@@ -63,6 +63,9 @@ Use the login button in the top right.
 View Virtualmin accounts, mail, db and log size over time
 ![Dashboard](https://github.com/riczorn/sillydash/blob/a08a1f02076bfadec682e36625a7066ee0252465/sillydash/docs/5.%20Dashboard.png)
 
+Below it, a pie chart to represent the largest accounts:
+![Dashboard Piechart](https://github.com/riczorn/sillydash/blob/ab4f8adf576f03ae71e0b8cf5d76430805c05db5/docs/5b.%20Dashboard.png)
+
 ### Subdomains
 View ongoing usage for subdomains under this account
 ![Subdomains](https://github.com/riczorn/sillydash/blob/a08a1f02076bfadec682e36625a7066ee0252465/sillydash/docs/6.%20Subdomains.png)
