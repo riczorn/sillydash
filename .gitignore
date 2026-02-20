@@ -2,6 +2,7 @@
 /results/
 /phpunit*.xml
 silly dashboard notes*
+.~lock.*
 /files/
 /app/Config/Database.php
 /writable/
